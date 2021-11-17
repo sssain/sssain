@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Naufal Zaqie
 - 👀 Currently learning html, css, and javascript.
-- 📫 Contact me at naufalizeds@gmail.com
+- 📫 Contact me at contact@sssaintt.xyz
 
 <!---
 sssain/sssain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
