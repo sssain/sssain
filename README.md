@@ -2,7 +2,7 @@
 
  ㅤㅤㅤㅤㅤ⎯⎯ ୨ 𝗡𝗮𝘂𝗳𝗮𝗹 𝗭𝗮𝗾𝗶𝗲 ୧ ⎯⎯
 
-╰┈➤ 13 y.o who cant make a responsive website
+╰┈➤ 14 y.o who cant make a responsive website
 
 ╰┈➤ Currently Learning Javascript and Python.
 
