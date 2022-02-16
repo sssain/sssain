@@ -2,16 +2,17 @@
 
  ㅤㅤㅤㅤㅤ⎯⎯ ୨ 𝗡𝗮𝘂𝗳𝗮𝗹 𝗭𝗮𝗾𝗶𝗲 ୧ ⎯⎯
 
-╰┈➤ 14 y.o who cant make a responsive website
+root@saint:~$ cat info.txt
 
-╰┈➤ Currently Learning Javascript and Python.
+14 y.o front end web developer.
 
-╰┈➤ Contact Me at contact@sssaintt.xyz
-
- ㅤㅤㅤㅤㅤ ㅤ     ㅤ•·.·''·.·• •·.·''·.·
-
+<p style="color:green">root@saint:~$ cat instagram.txt</p>
 <a href="https://instagram.com/naefol"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+
+<p style="color:green">root@saint:~$ cat twitter.txt</p>
 <a href="https://twitter.com/sssain_tt"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+
+<p style="color:green">root@saint:~$ cat spotify.txt</p>
 <a href="https://open.spotify.com/user/xgrmrm4vm630clwvq91zskjud?si=2fd6ae7af6a44583"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a>
 
 <!---
