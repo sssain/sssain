@@ -4,7 +4,7 @@ root@saint:~$ py info.py
 
 14 y.o front end web developer.
              
-root@saint:~$ █
+root@saint:~$█
 ```
 
 <!---
