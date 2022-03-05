@@ -2,7 +2,7 @@
 
 root@saint:~$ py info.py
 
-14 y.o front end web developer.
+self-taught developer.
              
 root@saint:~$█
 ```
