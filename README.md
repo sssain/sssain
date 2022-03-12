@@ -1,15 +1,1 @@
-```sh
-
-root@saint:~$ py info.py
-
-self-taught developer.
-             
-root@saint:~$█
-```
-
-<!---
-sssain/sssain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-![My Discord](https://discord-readme-badge.vercel.app/api?id=658175780697669652)
+<img src="https://cdn.discordapp.com/attachments/854378301303947317/952177389100757082/github.png" alt="desc">
