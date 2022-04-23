@@ -1,1 +1,12 @@
-<img src="https://cdn.discordapp.com/attachments/854378301303947317/952177389100757082/github.png" alt="desc">
+```ruby
+nnlxix@github
+
+Name = Naufal Zaqie
+Skills = HTML, CSS, PHP, Python
+Main Language = Bahasa, HTML
+E-Mail = nnlxix@pm.me
+
+sssaintt.xyz
+
+
+```
