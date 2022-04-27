@@ -14,4 +14,8 @@ sssaintt.xyz
 ```
 <hr>
 
-![sssain's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sssain&theme=tokyonight)&nbsp; ![sssain's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sssain)
+<!--START_SECTION:waka-->
+
+
+
+<!--END_SECTION:waka-->
