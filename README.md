@@ -3,7 +3,7 @@ nnlxix@github
 -------------
 
 Name           =   Naufal Zaqie
-Skills         =   HTML, CSS, Python
+Skills         =   HTML, CSS, Python, Uikit, Adobe XD
 Main Language  =   Bahasa, HTML
 E-Mail         =   nnlxix@pm.me
 Notes          =   I'm available for any front-end works, contact me on email.
