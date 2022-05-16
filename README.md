@@ -12,10 +12,5 @@ sssaintt.xyz
 sssain.gumroad.com
 
 ```
-<hr>
-
-<!--START_SECTION:waka-->
-
-
-
-<!--END_SECTION:waka-->
+* * *
+![sssain's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=sssain&theme=github_dark)
