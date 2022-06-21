@@ -3,6 +3,7 @@ nnlxix@github
 -------------
 
 Name           =   Naufal Zaqie
+Current OS     =   MacOS BigSur 11.6.7 (Hackintosh)
 Skills         =   HTML, CSS, Python, Uikit, Adobe XD
 Main Language  =   Bahasa, HTML
 E-Mail         =   nnlxix@pm.me
