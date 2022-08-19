@@ -3,7 +3,7 @@ nnlxix@github
 -------------
 
 Name           =   Naufal Zaqie
-Current OS     =   MacOS Monterey 12.4 (Hackintosh)
+Current OS     =   ReviOS 10
 Skills         =   HTML, CSS, Python, Uikit, Adobe XD
 Main Language  =   Bahasa, HTML
 E-Mail         =   nnlxix@pm.me
