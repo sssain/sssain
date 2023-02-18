@@ -13,9 +13,5 @@ neofal.xyz
 sssain.gumroad.com
 
 ```
-* * *
-![sssain's GitHub stats](https://github-readme-stats.vercel.app/api/wakatime?username=sssain&theme=github_dark)
-* * *
-![](https://dcbadge.vercel.app/api/shield/658175780697669652)
 
 
