@@ -1,11 +1,9 @@
-```ruby
+```haskell
 nnlxix@github
 -------------
 
-Name           •   Naufal Zaqie
-Current OS     •   ReviOS 10
-Skills         •   HTML, CSS, Python, Internet of Things
-Main Language  •   Bahasa, HTML
+OS             •   ReviOS 10
+Language       •   py, html, css
 E-Mail         •   nnlxix@pm.me
 Notes          •   I'm available for any front-end works, contact me on email.
 
