@@ -4,7 +4,7 @@ nnlxix@github
 
 OS             •   ReviOS 10
 Language       •   py, html, css
-E-Mail         •   nnlxix@pm.me
+E-Mail         •   naufalizeds@gmail.com
 Notes          •  
 
 neofal.xyz
