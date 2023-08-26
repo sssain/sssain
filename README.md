@@ -7,7 +7,7 @@ Language       •   py, html, css
 E-Mail         •   naufalizeds@gmail.com
 Notes          •  
 
-neofal.xyz
+sa1n.me
 sssain.gumroad.com
 
 ```
